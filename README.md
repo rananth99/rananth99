@@ -6,7 +6,7 @@ How to reach me : <a href="https://www.linkedin.com/in/ananthrangarajan/"><img s
 
 Summary
 ---
-* I am currently Pursuing my Masters in Computer science from Arizona State University
+* I am currently Pursuing my Masters in Computer Science from Arizona State University
 * I am also open to work and currently looking for internships for summer 2023 and full time jobs for 2024. Feel free to reach out to me on my email :smiley:
 
 Skills
