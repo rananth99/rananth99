@@ -1,4 +1,8 @@
-# Hi there, I am Ananth Rangarajan 👋
+<h1>Hi there, I am Ananth Rangarajan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p>
+How to reach me : <a href="linkedin.com/in/ananthrangarajan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 Summary
 ---
