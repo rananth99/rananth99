@@ -4,16 +4,17 @@
 
 <p>
 How to reach me : <a href="https://www.linkedin.com/in/ananthrangarajan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+ <a href=""
 </p>
 
 Summary
 ---
 * I recently graduated from Arizona State University with Masters in Computer Science 
-* I am currently looking for full-time Software Engineer, Data Analyst, Data Engineer opportunitie. Feel free to reach out to me on my email :smiley:
+* I am currently looking for full-time Software Engineer, Data Analyst, and Data Engineer opportunities. Feel free to reach out to me through LinkedIn :smiley:
 
 Skills
 ---
-Some of my skills include as follows
+Some of my skills include:
 * Programming languages: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
  ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 * FrontEnd technologies: ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
