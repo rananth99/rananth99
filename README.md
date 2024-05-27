@@ -32,7 +32,6 @@ time by ~70%. <br/>
 · Established an efficient reporting system using SSRS and SSMS software for data visualization, enabling clients to generate reports
 seamlessly on front-end, saving significant manual effort and improving overall efficiency by 60%. <br/>
 <br/><br/>
-
 * Analyst, Deloitte Support Services India Pvt.Ltd: <br/>
 · Deployed a process to Automate Excel-based reports using SQL Server, SSIS, Excel VBA, and UI Path. Automating
 these reports reduced manual effort and debugging time for team. <br/>
@@ -40,7 +39,6 @@ these reports reduced manual effort and debugging time for team. <br/>
 and Sharepoint. These dashboards provided an interactive platform to view data and gather important insights
 from data. <br/>
 <br/><br/>
-
 * Summer Intern, Invendis Technologies (India) Pvt.Ltd: <br/>
 · Generated a pipeline to read large data from SQL Workbench using Python, SQLLite, Numpy, and Pandas to
 fetch the data and perform mathematical operations. <br/>
