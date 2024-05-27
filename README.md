@@ -8,8 +8,8 @@ How to reach me : <a href="https://www.linkedin.com/in/ananthrangarajan/"><img s
 
 Summary
 ---
-* I am currently Pursuing my Masters in Computer Science from Arizona State University
-* I am also open to work and currently looking for internships for summer 2023 and full time jobs for 2024. Feel free to reach out to me on my email :smiley:
+* I currently graduated from Arizona State University (MS in Computer Science)
+* I am open to work and currently looking for full-time opportunities. Feel free to reach out to me on my email :smiley:
 
 Skills
 ---
@@ -24,6 +24,15 @@ Some of my skills include as follows
 
 Work Experience
 ---
+* Software Engineer Intern, Knipper Health: <br/>
+· Engineered a robust automated ETL solution utilizing SSIS and SSMS to seamlessly migrate data from Excel files to SQL Server
+database, reducing manual effort by nearly 40%. <br/>
+· Designed an error-logging mechanism for SSIS package to simplify debugging and troubleshooting and reduce manual debugging
+time by ~70%. <br/>
+· Established an efficient reporting system using SSRS and SSMS software for data visualization, enabling clients to generate reports
+seamlessly on front-end, saving significant manual effort and improving overall efficiency by 60%. <br/>
+<br/><br/>
+
 * Analyst, Deloitte Support Services India Pvt.Ltd: <br/>
 · Deployed a process to Automate Excel-based reports using SQL Server, SSIS, Excel VBA, and UI Path. Automating
 these reports reduced manual effort and debugging time for team. <br/>
@@ -31,6 +40,7 @@ these reports reduced manual effort and debugging time for team. <br/>
 and Sharepoint. These dashboards provided an interactive platform to view data and gather important insights
 from data. <br/>
 <br/><br/>
+
 * Summer Intern, Invendis Technologies (India) Pvt.Ltd: <br/>
 · Generated a pipeline to read large data from SQL Workbench using Python, SQLLite, Numpy, and Pandas to
 fetch the data and perform mathematical operations. <br/>
