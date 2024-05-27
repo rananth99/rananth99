@@ -8,8 +8,8 @@ How to reach me : <a href="https://www.linkedin.com/in/ananthrangarajan/"><img s
 
 Summary
 ---
-* I currently graduated from Arizona State University (MS in Computer Science)
-* I am open to work and currently looking for full-time opportunities. Feel free to reach out to me on my email :smiley:
+* I recently graduated from Arizona State University with Masters in Computer Science 
+* I am currently looking for full-time Software Engineer, Data Analyst, Data Engineer opportunitie. Feel free to reach out to me on my email :smiley:
 
 Skills
 ---
